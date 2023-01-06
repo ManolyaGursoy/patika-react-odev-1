@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.2.2"
+  },
+  "name": "patika-react-odev-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "basic practice to retrieve data with axios"
+}
